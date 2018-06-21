@@ -5,6 +5,7 @@ https://0day.rocks/
 Reverse Engineering malware
 https://securedorg.github.io/RE101/
 
+https://github.com/externalist
 
 mimikatz, ransoware wannacry
 https://github.com/gentilkiwi
